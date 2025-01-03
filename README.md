@@ -37,7 +37,7 @@ The project is part of my learning journey in web development from Angela Yu's U
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd nft-marketplace-icp
+cd opend-starting
 
 # Start the local Dfinity environment
 dfx start
