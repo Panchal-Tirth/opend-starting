@@ -1,6 +1,6 @@
-__While building and learning it simultaneously 🚀, I learned about Motoko, how web applications are built on blockchain ⛓️🔗, and how the Web3 ecosystem works 🌐. But I'm still not that proficient in Web3 . For now, I learned it as part of Angela Yu's course on Udemy 🎓. However, I am currently focused on learning AI/ML 🤖, building projects for my portfolio 🏗️, and trying to get my hands on open-source contributions 💻.
+While building and learning it simultaneously 🚀, I learned about Motoko, how web applications are built on blockchain ⛓️🔗, and how the Web3 ecosystem works 🌐. But I'm still not that proficient in Web3 . For now, I learned it as part of Angela Yu's course on Udemy 🎓. However, I am currently focused on learning AI/ML 🤖, building projects for my portfolio 🏗️, and trying to get my hands on open-source contributions 💻.
 
-So, I'll come back to learning Web3 later in the future 😊. Until then, here's how you can run it and enjoy it on your local PC 💻!__
+So, I'll come back to learning Web3 later in the future 😊. Until then, here's how you can run it and enjoy it on your local PC 💻!
 
 # NFT MarketPlace on ICP Blockchain
 
